@@ -42,3 +42,7 @@ make
 BFS (Adjacency Matrix): 0 1 2 3 4 5
 DFS (Adjacency List): 0 1 2 4 3 5
 ```
+
+## Program Output Screenshot
+
+![Program Output](screenshots/output.png)
